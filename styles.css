@@ -1,0 +1,160 @@
+body{
+    padding: 0%;
+    margin: 0%;
+  }
+  
+  .main{
+    border: solid #1F2937;
+  
+  }
+  
+  .header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex: 1 0 auto;
+    background-color: #1F2937;
+  }
+  
+  .links{
+    display: flex;
+    padding-right: 20px;
+  }
+  
+  .links a{
+    color: white;
+  }
+  
+  .logo{
+    padding-left: 20px;
+    color: white;
+  }
+  
+  
+  .edit{
+    height: 400px;
+    background-color: #1F2937;
+  }
+  
+  .interior{
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10%;
+  }
+  
+  .interior button{
+    color: white;
+    background-color: #3882F6;
+    width: 70px;
+    height: 35px;
+    border-radius: 15%;
+  }
+  
+  .text{
+    font-size: 25px;
+    padding-left: 20px;
+    color: white;
+  }
+  
+  .text p{
+    font-size: 15px;
+  }
+  
+  .image{
+    display: flex;
+    width: 400px;
+    height: 200px;
+    padding-right: 20px;
+  }
+  
+  
+  .middle{
+    padding-top: 5%;
+    height: 325px;
+  }
+  
+  .temp{
+    margin-left: 45%;
+    font-size: 30px;
+  }
+  
+  .material{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10%;
+    margin-left: 10%;
+    gap: 40px;
+  }
+  
+  .material img{
+    width: 140px;
+    border: solid #3882F6;
+    border-radius: 5%;
+    margin-top: 10%;
+  }
+  
+  .imagetext{
+    width: 700px;
+    display: flex;
+    margin-right: 15%;
+    margin-left: 25%;
+    gap: 62px;
+  }
+  
+  .quote{
+    height: 350px;
+    background-color: #E5E7EB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .quote p{
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    padding: 10%;
+  }
+  
+  
+  
+  .action{
+    padding-right: 50px;
+    margin: 100px;
+    background-color: #3882F6;;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15%;
+  }
+  
+  .action button{
+    color: white;
+    background-color: #3882F6;
+    width: 80px;
+    height: 30px;
+    border-radius: 15%;
+    
+  }
+  .sign{
+    color: white;
+    padding-left: 10%;
+    font-size: 20px;
+  }
+  .under{
+    color: white;
+    font-size: 15px;
+  }
+  
+  .foot{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: white;
+  }
