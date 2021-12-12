@@ -100,8 +100,8 @@ body{
     width: 700px;
     display: flex;
     margin-right: 15%;
-    margin-left: 25%;
-    gap: 62px;
+    margin-left: 10%;
+    gap: 70px;
   }
   
   .quote{
